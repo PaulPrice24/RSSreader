@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "877611265862",
+    "project_id": "rssreader-76c10",
+    "storage_bucket": "rssreader-76c10.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:877611265862:android:2f2d776b9e3399403dff47",
+        "android_client_info": {
+          "package_name": "com.paulprice.rssreader"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRsq1AUW2dQWv8Q_D3iW_8cyqw1DV0wws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
